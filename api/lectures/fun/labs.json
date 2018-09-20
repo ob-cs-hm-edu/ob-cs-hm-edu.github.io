@@ -112,11 +112,12 @@
     "topic": "Abschlusspräsentationen der Studienarbeiten"
   },
   {
+    "cancelled": true,
     "dates": [
       {
         "date": "21.01.2019"
       }
     ],
-    "topic": ""
+    "topic": "kein Praktikum mehr"
   }
 ]
