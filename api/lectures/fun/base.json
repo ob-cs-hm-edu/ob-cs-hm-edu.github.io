@@ -132,27 +132,22 @@
         "file": "05_MehrFunktionaleMuster"
       },
       {
-        "donotpublish": true,
         "name": "Falten statt Schleifen",
         "file": "06_FaltenStattSchleifen"
       },
       {
-        "donotpublish": true,
         "name": "Algebraische Datentypen",
         "file": "07_AlgebraischeDatentypen"
       },
       {
-        "donotpublish": true,
         "name": "Monoide",
         "file": "08_Monoide"
       },
       {
-        "donotpublish": true,
         "name": "Funktoren",
         "file": "09_Funktoren"
       },
       {
-        "donotpublish": true,
         "name": "Applikative Funktoren",
         "file": "10_ApplikativeFunktoren"
       },
